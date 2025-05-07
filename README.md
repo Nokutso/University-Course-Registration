@@ -61,7 +61,7 @@ Below is the visual ERD used to design this database:
 ## 🛠️ Technologies Used
 
 * **MySQL**
-* **Visual Studio Code**
+* **Visual Studio Code** (to push the file and type a README)
 * **Lucidchart** (for ERD design)
 
 ---
